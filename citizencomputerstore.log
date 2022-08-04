@@ -1,0 +1,301 @@
+2022-08-03 14:30:28,008 :: Logging into the web 
+2022-08-03 14:30:33,051 :: User accessing the Admin Portal 
+2022-08-03 14:30:40,532 :: User Inputs Invalid selection 
+2022-08-03 14:30:46,962 :: User accessing the Admin Portal 
+2022-08-03 14:55:14,741 :: Logging into the web
+2022-08-03 14:55:16,604 :: User accessing the Admin Portal 
+2022-08-03 14:55:37,933 :: Logging into the web
+2022-08-03 14:59:45,991 :: User accessing the Customers Portal
+2022-08-03 15:27:10,521 :: Logging into the web
+2022-08-03 15:27:15,884 :: User accessing the Customers Portal
+2022-08-03 15:28:39,067 :: Logging into the web
+2022-08-03 15:28:48,613 :: User accessing the Customers Portal
+2022-08-03 15:29:51,655 :: Logging into the web
+2022-08-03 15:29:53,651 :: User accessing the Customers Portal
+2022-08-03 18:15:31,221 :: Logging into the web
+2022-08-03 18:15:53,065 :: User accessing the Admin Portal 
+2022-08-03 18:27:31,766 :: Logging into the web
+2022-08-03 18:27:32,646 :: User Inputs Invalid selection 
+2022-08-03 18:27:46,921 :: User accessing the Admin Portal 
+2022-08-03 18:29:03,422 :: User accessing the Admin Portal 
+2022-08-03 18:31:45,858 :: Logging into the web
+2022-08-03 18:31:50,593 :: User accessing the Admin Portal 
+2022-08-03 18:47:26,928 :: Logging into the web
+2022-08-03 18:47:29,122 :: User accessing the Admin Portal 
+2022-08-03 18:48:54,102 :: Logging into the web
+2022-08-03 18:48:54,920 :: User Inputs Invalid selection 
+2022-08-03 18:48:57,843 :: Logging into the web
+2022-08-03 18:49:00,032 :: User accessing the Admin Portal 
+2022-08-03 18:57:10,130 :: Logging into the web
+2022-08-03 18:57:12,942 :: User Inputs Invalid selection 
+2022-08-03 18:57:13,781 :: User Inputs Invalid selection 
+2022-08-03 18:57:14,656 :: User Inputs Invalid selection 
+2022-08-03 18:59:34,048 :: User Inputs Invalid selection 
+2022-08-03 18:59:36,026 :: Logging into the web
+2022-08-03 19:00:28,782 :: Logging into the web
+2022-08-03 19:04:02,686 :: User Inputs Invalid selection 
+2022-08-03 19:04:05,846 :: Logging into the web
+2022-08-03 19:04:09,384 :: Invalid input was entered 
+2022-08-03 19:04:44,781 :: User accessing the Admin Portal 
+2022-08-03 19:05:32,502 :: Logging into the web
+2022-08-03 19:05:34,457 :: User accessing the Admin Portal 
+2022-08-03 19:06:24,071 :: Logging into the web
+2022-08-03 19:06:26,087 :: User accessing the Admin Portal 
+2022-08-03 19:06:46,331 :: Logging into the web
+2022-08-03 19:06:47,638 :: User accessing the Admin Portal 
+2022-08-03 19:08:34,733 :: Logging into the web
+2022-08-03 19:08:36,340 :: User accessing the Admin Portal 
+2022-08-03 19:12:15,498 :: Logging into the web
+2022-08-03 19:12:16,924 :: User accessing the Admin Portal 
+2022-08-03 19:12:20,391 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 19:13:39,624 :: User accessing the Admin Portal 
+2022-08-03 19:14:58,723 :: User Inputs Invalid selection 
+2022-08-03 19:15:02,270 :: Logging into the web
+2022-08-03 19:15:03,732 :: User accessing the Admin Portal 
+2022-08-03 19:15:07,093 :: Unauthorised Login Attempt was Declined 
+2022-08-03 19:15:26,803 :: User Inputs Invalid selection 
+2022-08-03 19:15:29,178 :: Logging into the web
+2022-08-03 19:15:30,878 :: User accessing the Admin Portal 
+2022-08-03 19:15:33,543 :: Unauthorised Login Attempt was Declined 
+2022-08-03 19:15:42,425 :: User accessing the Admin Portal 
+2022-08-03 19:15:49,962 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 19:16:51,254 :: Logging into the web
+2022-08-03 19:16:53,111 :: User accessing the Admin Portal 
+2022-08-03 19:16:59,307 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 19:27:22,938 :: Logging into the web
+2022-08-03 19:27:23,532 :: User Inputs Invalid selection 
+2022-08-03 19:27:26,149 :: User accessing the Admin Portal 
+2022-08-03 19:27:29,481 :: ADA Successfully Loged Into The ADMIN portal
+2022-08-03 19:30:27,250 :: Logging into the web
+2022-08-03 19:30:27,759 :: User Inputs Invalid selection 
+2022-08-03 19:30:34,900 :: User accessing the Admin Portal 
+2022-08-03 19:30:38,137 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:03:00,266 :: Logging into the web
+2022-08-03 20:03:04,814 :: User accessing the Admin Portal 
+2022-08-03 20:03:08,349 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:05:42,140 :: Logging into the web
+2022-08-03 20:05:44,003 :: User accessing the Admin Portal 
+2022-08-03 20:05:50,604 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:06:11,945 :: Logging into the web
+2022-08-03 20:06:15,461 :: User accessing the Admin Portal 
+2022-08-03 20:06:21,882 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:07:52,989 :: Logging into the web
+2022-08-03 20:07:54,805 :: User accessing the Admin Portal 
+2022-08-03 20:07:58,394 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:09:15,520 :: Logging into the web
+2022-08-03 20:09:17,252 :: User accessing the Admin Portal 
+2022-08-03 20:09:23,055 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:09:48,590 :: Logging into the web
+2022-08-03 20:09:51,921 :: User accessing the Admin Portal 
+2022-08-03 20:09:57,073 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:11:08,809 :: Logging into the web
+2022-08-03 20:11:10,420 :: User accessing the Admin Portal 
+2022-08-03 20:11:16,294 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:15:20,840 :: Logging into the web
+2022-08-03 20:15:22,576 :: User accessing the Admin Portal 
+2022-08-03 20:15:26,848 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:16:47,874 :: User accessing the Admin Portal 
+2022-08-03 20:16:55,281 :: Unauthorised Login Attempt was Declined 
+2022-08-03 20:16:58,157 :: User Inputs Invalid selection 
+2022-08-03 20:17:00,946 :: Invalid input was entered 
+2022-08-03 20:17:11,337 :: User accessing the Admin Portal 
+2022-08-03 20:17:14,124 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:17:20,006 :: Invalid input was entered 
+2022-08-03 20:17:30,911 :: User accessing the Admin Portal 
+2022-08-03 20:17:34,565 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:18:42,218 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:26:44,592 :: Logging into the web
+2022-08-03 20:26:45,357 :: User Inputs Invalid selection 
+2022-08-03 20:26:51,288 :: User accessing the Admin Portal 
+2022-08-03 20:26:56,458 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:27:57,493 :: Logging into the web
+2022-08-03 20:27:59,949 :: User accessing the Admin Portal 
+2022-08-03 20:28:08,466 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:28:51,028 :: User accessing the Admin Portal 
+2022-08-03 20:28:58,598 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 20:33:30,633 :: Logging into the web
+2022-08-03 20:33:34,884 :: User accessing the Customer Creation Portal 
+2022-08-03 20:35:20,979 :: User Inputs Invalid selection 
+2022-08-03 20:35:24,129 :: Logging into the web
+2022-08-03 20:35:28,553 :: User accessing the Customer Creation Portal 
+2022-08-03 20:35:59,265 :: User Inputs Invalid selection 
+2022-08-03 20:36:02,017 :: Logging into the web
+2022-08-03 20:36:03,028 :: User Inputs Invalid selection 
+2022-08-03 20:36:04,889 :: User accessing the Admin Portal 
+2022-08-03 20:36:15,061 :: Logging into the web
+2022-08-03 20:36:20,740 :: User Inputs Invalid selection 
+2022-08-03 20:36:23,054 :: User accessing the Customer Creation Portal 
+2022-08-03 20:37:02,905 :: User Quit the Program 
+2022-08-03 20:37:07,481 :: Logging into the web
+2022-08-03 20:37:09,873 :: User accessing the Customers Portal
+2022-08-03 20:37:53,337 :: User accessing the Customers Portal
+2022-08-03 20:38:10,233 :: User accessing the Customers Portal
+2022-08-03 20:38:55,701 :: Logging into the web
+2022-08-03 20:39:00,644 :: User accessing the Customers Portal
+2022-08-03 20:45:11,570 :: Logging into the web
+2022-08-03 20:45:17,081 :: User accessing the Customers Portal
+2022-08-03 21:04:44,111 :: Logging into the web
+2022-08-03 21:04:46,871 :: User accessing the Customers Portal
+2022-08-03 21:07:08,348 :: Logging into the web
+2022-08-03 21:07:12,405 :: User accessing the Customers Portal
+2022-08-03 21:09:36,395 :: Logging into the web
+2022-08-03 21:09:41,665 :: User accessing the Customers Portal
+2022-08-03 21:13:24,766 :: Logging into the web
+2022-08-03 21:13:27,673 :: User accessing the Customers Portal
+2022-08-03 21:26:41,426 :: Logging into the web
+2022-08-03 21:26:43,681 :: User accessing the Customers Portal
+2022-08-03 21:26:45,185 :: Invalid input was entered 
+2022-08-03 21:29:40,162 :: Logging into the web
+2022-08-03 21:29:44,573 :: User accessing the Customers Portal
+2022-08-03 21:30:00,999 :: User accessing the Customers Portal
+2022-08-03 21:30:51,760 :: Logging into the web
+2022-08-03 21:30:53,694 :: User accessing the Customers Portal
+2022-08-03 21:33:02,193 :: Logging into the web
+2022-08-03 21:33:06,638 :: User accessing the Customers Portal
+2022-08-03 21:34:17,519 :: User accessing the Customer Creation Portal 
+2022-08-03 21:36:07,345 :: Logging into the web
+2022-08-03 21:53:24,859 :: User Inputs Invalid selection 
+2022-08-03 21:53:27,132 :: Logging into the web
+2022-08-03 21:53:28,995 :: User accessing the Admin Portal 
+2022-08-03 21:53:34,842 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 21:57:43,408 :: Logging into the web
+2022-08-03 21:57:44,160 :: User Inputs Invalid selection 
+2022-08-03 21:57:46,003 :: User accessing the Admin Portal 
+2022-08-03 21:57:51,996 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 21:57:55,905 :: Invalid input was entered 
+2022-08-03 22:01:06,333 :: Logging into the web
+2022-08-03 22:01:23,561 :: User Inputs Invalid selection 
+2022-08-03 22:01:24,777 :: Logging into the web
+2022-08-03 22:01:27,020 :: User accessing the Admin Portal 
+2022-08-03 22:01:30,808 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:06:28,692 :: Logging into the web
+2022-08-03 22:06:33,165 :: User accessing the Admin Portal 
+2022-08-03 22:06:40,469 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:07:21,417 :: Logging into the web
+2022-08-03 22:07:24,473 :: User accessing the Admin Portal 
+2022-08-03 22:07:28,726 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:09:03,300 :: Logging into the web
+2022-08-03 22:09:11,953 :: User accessing the Admin Portal 
+2022-08-03 22:09:17,354 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:16:04,742 :: Logging into the web
+2022-08-03 22:16:06,912 :: User accessing the Admin Portal 
+2022-08-03 22:16:15,391 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:32:53,473 :: Logging into the web
+2022-08-03 22:32:56,472 :: User accessing the Admin Portal 
+2022-08-03 22:33:00,893 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:34:37,624 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:36:12,199 :: Logging into the web
+2022-08-03 22:36:14,625 :: User accessing the Admin Portal 
+2022-08-03 22:36:19,301 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:38:15,479 :: Logging into the web
+2022-08-03 22:38:18,267 :: User accessing the Admin Portal 
+2022-08-03 22:38:22,742 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:40:35,824 :: Logging into the web
+2022-08-03 22:40:37,617 :: User accessing the Admin Portal 
+2022-08-03 22:40:40,891 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:40:51,403 :: ada Successfully Loged Into The ADMIN portal
+2022-08-03 22:41:26,069 :: User Inputs Invalid selection 
+2022-08-04 14:37:38,724 :: Logging into the web
+2022-08-04 14:37:42,507 :: User accessing the Admin Portal 
+2022-08-04 14:37:46,688 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 14:37:54,278 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:19:28,928 :: Logging into the web
+2022-08-04 15:19:31,212 :: User accessing the Admin Portal 
+2022-08-04 15:19:35,670 :: Unauthorised Login Attempt was Declined 
+2022-08-04 15:19:42,612 :: User accessing the Admin Portal 
+2022-08-04 15:19:45,867 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:22:19,641 :: Logging into the web
+2022-08-04 15:22:23,188 :: User accessing the Admin Portal 
+2022-08-04 15:22:26,817 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:23:15,958 :: Logging into the web
+2022-08-04 15:23:17,946 :: User accessing the Admin Portal 
+2022-08-04 15:23:20,692 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:37:17,439 :: Logging into the web
+2022-08-04 15:43:25,570 :: User accessing the Admin Portal 
+2022-08-04 15:43:31,170 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:44:21,340 :: User accessing the Admin Portal 
+2022-08-04 15:44:25,883 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 15:46:10,917 :: Logging into the web
+2022-08-04 15:46:15,917 :: User accessing the Customer Creation Portal 
+2022-08-04 15:54:35,194 :: User Inputs Invalid selection 
+2022-08-04 15:54:37,813 :: Logging into the web
+2022-08-04 15:54:40,259 :: User accessing the Customer Creation Portal 
+2022-08-04 16:05:37,529 :: User Inputs Invalid selection 
+2022-08-04 16:19:11,334 :: Logging into the web
+2022-08-04 16:19:31,105 :: User Inputs Invalid selection 
+2022-08-04 16:19:38,043 :: User accessing the Admin Portal 
+2022-08-04 16:19:43,896 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:22:13,019 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:22:32,642 :: Logging into the web
+2022-08-04 16:22:36,697 :: User accessing the Admin Portal 
+2022-08-04 16:22:40,634 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:24:23,224 :: Logging into the web
+2022-08-04 16:24:25,454 :: User accessing the Admin Portal 
+2022-08-04 16:24:29,618 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:25:33,611 :: Logging into the web
+2022-08-04 16:26:09,354 :: User accessing the Customers Portal
+2022-08-04 16:28:27,707 :: User Quit the Program 
+2022-08-04 16:40:36,110 :: Logging into the web
+2022-08-04 16:40:38,171 :: User accessing the Admin Portal 
+2022-08-04 16:40:42,219 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:41:05,340 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:43:29,777 :: User Inputs Invalid selection 
+2022-08-04 16:43:31,813 :: Logging into the web
+2022-08-04 16:43:34,153 :: User accessing the Admin Portal 
+2022-08-04 16:43:40,332 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:43:45,911 :: User Quit the Program 
+2022-08-04 16:43:51,667 :: Logging into the web
+2022-08-04 16:43:53,949 :: User Inputs Invalid selection 
+2022-08-04 16:43:55,292 :: Invalid input was entered 
+2022-08-04 16:43:57,773 :: User accessing the Admin Portal 
+2022-08-04 16:44:04,779 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:44:20,200 :: User accessing the Customers Portal
+2022-08-04 16:44:24,070 :: User Quit the Program 
+2022-08-04 16:44:36,520 :: Logging into the web
+2022-08-04 16:44:38,385 :: User accessing the Admin Portal 
+2022-08-04 16:44:41,719 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:44:56,251 :: Logging into the web
+2022-08-04 16:45:00,789 :: User Inputs Invalid selection 
+2022-08-04 16:45:06,095 :: Invalid input was entered 
+2022-08-04 16:45:09,376 :: User accessing the Admin Portal 
+2022-08-04 16:45:16,000 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 16:45:56,926 :: User Inputs Invalid selection 
+2022-08-04 16:46:01,838 :: User accessing the Admin Portal 
+2022-08-04 16:46:06,181 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:13:15,284 :: User Inputs Invalid selection 
+2022-08-04 17:13:18,175 :: Logging into the web
+2022-08-04 17:13:22,262 :: User accessing the Admin Portal 
+2022-08-04 17:13:27,714 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:19:02,915 :: Logging into the web
+2022-08-04 17:19:05,677 :: User Inputs Invalid selection 
+2022-08-04 17:19:08,043 :: User accessing the Admin Portal 
+2022-08-04 17:19:10,706 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:19:34,514 :: Logging into the web
+2022-08-04 17:19:38,936 :: User accessing the Admin Portal 
+2022-08-04 17:19:42,191 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:20:42,806 :: Logging into the web
+2022-08-04 17:21:09,612 :: User accessing the Admin Portal 
+2022-08-04 17:21:18,916 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:22:27,627 :: Logging into the web
+2022-08-04 17:22:30,444 :: User accessing the Admin Portal 
+2022-08-04 17:22:36,216 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 17:23:22,340 :: Logging into the web
+2022-08-04 17:23:25,909 :: User accessing the Admin Portal 
+2022-08-04 17:23:30,549 :: ada Successfully Loged Into The ADMIN portal
+2022-08-04 18:45:36,963 :: Logging into the web
+2022-08-04 18:46:52,641 :: Successfully Loged Into The ADMIN portal
+2022-08-04 18:47:02,020 :: User Quit the Program 
+2022-08-04 18:47:04,532 :: Logging into the web
+2022-08-04 18:47:12,070 :: Unauthorised Login Attempt was Declined 
+2022-08-04 18:47:27,026 :: Successfully Loged Into The ADMIN portal
+2022-08-04 18:48:04,836 :: new computer was added to the inventory
+2022-08-04 18:48:56,330 :: successful log into customer portal
+2022-08-04 18:49:03,645 :: all placed orders were viewed
+2022-08-04 18:49:27,855 :: new customer was created 
+2022-08-04 18:49:53,356 :: successful log into customer portal
+2022-08-04 18:50:07,720 :: a new order was placed
+2022-08-04 18:50:19,385 :: successful log into customer portal
+2022-08-04 18:50:24,464 :: all placed orders were viewed
+2022-08-04 18:50:47,156 :: Successfully Loged Into The ADMIN portal
+2022-08-04 18:51:22,430 :: Master Admin account logged in  
+2022-08-04 18:52:25,462 :: Logging into the web
