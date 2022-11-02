@@ -1,5 +1,5 @@
 user="root"
-password="@Eastlands9!"
+password="password"
 host="127.0.0.1"
 
 
